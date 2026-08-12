@@ -1,0 +1,15 @@
+/.bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+/tmp/storage/*
+/public/uploads
+.env
+.env.*
+!.env.example
+/coverage
+/node_modules
+.DS_Store

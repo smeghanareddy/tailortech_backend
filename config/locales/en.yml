@@ -1,0 +1,8 @@
+en:
+  errors:
+    unauthorized: "You need to sign in to continue"
+    forbidden: "You are not allowed to perform this action"
+    not_found: "Resource not found"
+  ai:
+    unavailable: "AI service is unavailable — please try again in a moment"
+    failed: "AI generation failed"
